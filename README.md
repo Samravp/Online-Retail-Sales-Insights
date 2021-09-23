@@ -4,6 +4,9 @@
 
 This project is looking at sales of an UK based and registered non-store online retailer and determining whether time affects purchasing behaviour across 42 countries. The company sells unique all occasion gifts mainly to wholesale customers.
 
+![image](https://user-images.githubusercontent.com/85004202/134448057-f02fc9bc-8f0e-4fee-8d95-02fd511d52a6.png)
+
+
 **Hypothesis**
 
 - People are more likely to shop online during a certain time of the day or week of the day.
