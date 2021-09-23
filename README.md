@@ -1,10 +1,10 @@
 # Online Retail Sales Insights
 
-Project overview
+**Project overview**
 
 This project is looking at sales of an UK based and registered non-store online retailer and determining whether time affects purchasing behaviour across 42 countries. The company sells unique all occasion gifts mainly to wholesale customers.
 
-Hypothesis
+**Hypothesis**
 
 People are more likely to shop online during a certain time of the day or week of the day.
 
@@ -12,7 +12,7 @@ People are more likely to shop in certain months of the year (i.e. Christmas sea
 
 People are more likely to buy in higher quantities at lower prices. 
 
-Data Source
+**Data Source**
 
 URL: https://archive.ics.uci.edu/ml/datasets/online+retail
 Date retrieved: Tuesday 14th September 2021
@@ -23,7 +23,7 @@ How was the data retrieved?: Downloaded the CSV file
 Data period: From 2009 to 2011
 Data points: Over 1 million
 
-Data wrangling process
+**Data wrangling process**
 
 Separated two tabs from Excel and saving it as two separate CSV files
 Merged two CSV files
