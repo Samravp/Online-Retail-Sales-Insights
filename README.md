@@ -54,7 +54,7 @@ The questions that this analysis answer include;
 - Which Country had the highest order quantity?
 - What time during the day has the most sale volume?
 
-In addition, this analysis showcases a heatmap that presents sale correlation in each country.
+In addition, this analysis showcases a heatmap that presents sale correlation in each country. (NOTE:Gmaps API Key Required.)
 
 **Data Limitations**
 
