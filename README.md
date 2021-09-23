@@ -17,7 +17,7 @@ This project is looking at sales of an UK based and registered non-store online 
 
 **Data Source**
 
-URL: https://archive.ics.uci.edu/ml/datasets/online+retail
+URL: https://archive.ics.uci.edu/ml/datasets/online+retail\
 Date retrieved: Tuesday 14th September 2021
 Data format: XLSX (converted to CSV)
 Author: Dr Daqing Chen, Director: Public Analytics group.
