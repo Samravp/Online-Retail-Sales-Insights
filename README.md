@@ -18,12 +18,19 @@ This project is looking at sales of an UK based and registered non-store online 
 **Data Source**
 
 URL: https://archive.ics.uci.edu/ml/datasets/online+retail
+
 Date retrieved: Tuesday 14th September 2021
+
 Data format: XLSX (converted to CSV)
+
 Author: Dr Daqing Chen, Director: Public Analytics group.
+
 Organisation:  School of Engineering, London South Bank University, London SE1 0AA, UK.
+
 How was the data retrieved?: Downloaded the CSV file
+
 Data period: From 2009 to 2011
+
 Data points: Over 1 million
 
 **Data wrangling process**
