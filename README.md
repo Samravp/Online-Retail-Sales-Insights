@@ -52,8 +52,7 @@ This project is looking at sales of an UK based and registered non-store online 
 In this project we drill down to analyse below topics;
 
 - Volume of monthly orders per year
- <p align="left">
-<img width="400"src="PNG - Final/Volume of Monthly Orders per Year.png"></p>
+<img align="left" width="400"src="PNG - Final/Volume of Monthly Orders per Year.png">
 - Annual sale increase/decrease between 3 year of the data  
 - Total average volume increase/decrease between 3 year of the data  
 - Number of orders per day
