@@ -6,6 +6,12 @@ This project is looking at sales of an UK based and registered non-store online 
 
 ![image](https://user-images.githubusercontent.com/85004202/134448057-f02fc9bc-8f0e-4fee-8d95-02fd511d52a6.png)
 
+**Team Members**
+
+- [Zachary Breen](https://github.com/chewy-program)
+- [Miley Kotamee](https://github.com/Wisdom-Miley)
+- [Nicholas Chua](https://github.com/nickchuasl)
+
 
 **Hypothesis**
 
