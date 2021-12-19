@@ -5,7 +5,7 @@
 This project is looking at sales of an UK based and registered non-store online retailer and determining whether time affects purchasing behaviour across 42 countries. The company sells unique all occasion gifts mainly to wholesale customers.
 
  <p align="center">
-<img width="364" alt="image" src="https://user-images.githubusercontent.com/85004202/134448057-f02fc9bc-8f0e-4fee-8d95-02fd511d52a6.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/85004202/134448057-f02fc9bc-8f0e-4fee-8d95-02fd511d52a6.png">
  </p>
 
 **Team Members**
