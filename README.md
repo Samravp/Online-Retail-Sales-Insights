@@ -9,8 +9,9 @@ This project is looking at sales of an UK based and registered non-store online 
 **Team Members**
 
 - [Zachary Breen](https://github.com/chewy-program)
-- [Miley Kotamee](https://github.com/Wisdom-Miley)
 - [Nicholas Chua](https://github.com/nickchuasl)
+- [Miley Kotamee](https://github.com/Wisdom-Miley)
+- [Samra Vatan Parast](https://github.com/Samravp)
 
 
 **Hypothesis**
